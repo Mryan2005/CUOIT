@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "18445c3dc16e7c77",
+        "id": "7b778d5f86276bd1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "软件/系统/Windows系统/磁盘碎片整理.md",
+            "file": "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件/系统/Windows系统/磁盘碎片整理.md",
+                "file": "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件/系统/Windows系统/磁盘碎片整理.md",
+                "file": "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件/系统/Windows系统/磁盘碎片整理.md"
+                "file": "软件/系统/Windows系统/Windows文件夹/System32文件夹.md"
               }
             }
           },
@@ -153,20 +153,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.7582092285156,
-    "collapsed": true
+    "width": 323.7582092285156
   },
-  "active": "18445c3dc16e7c77",
+  "active": "7b778d5f86276bd1",
   "lastOpenFiles": [
-    "硬件/计算机的保养/固态硬盘.md",
-    "软件/系统/Windows系统/磁盘碎片整理.md",
-    "软件/系统/Windows系统/SSD的Trim支持.md",
+    "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
+    "软件/系统/Windows系统/spool文件夹.md",
     "软件/系统/Windows系统/窗体.md",
+    "软件/系统/Windows系统/磁盘碎片整理.md",
+    "硬件/计算机的保养/固态硬盘.md",
+    "软件/系统/Windows系统/SSD的Trim支持.md",
     "一些软件名.md",
     "化学/未命名 1.md",
     "化学/溶液中粒子浓度关系分析.md",
-    "化学/盐类的水解及应用.md",
-    "Pasted image 20220909102841.png",
-    "地点设定.md"
+    "化学/盐类的水解及应用.md"
   ]
 }
