@@ -1,0 +1,13 @@
+{
+  "promptDelete": true,
+  "attachmentFolderPath": "资料",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
+}
