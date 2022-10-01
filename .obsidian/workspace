@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "一些软件名.md",
-            "mode": "source",
+            "file": "软件/GitHub Action.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一些软件名.md",
+                "file": "软件/GitHub Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +113,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一些软件名.md",
+                "file": "软件/GitHub Action.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "89cc7e18e72fef55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "软件/GitHub Action.md"
               }
             }
           },
@@ -131,16 +141,6 @@
             }
           },
           {
-            "id": "89cc7e18e72fef55",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "一些软件名.md"
-              }
-            }
-          },
-          {
             "id": "e122e88d44016419",
             "type": "leaf",
             "state": {
@@ -149,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,6 +157,7 @@
   },
   "active": "7b778d5f86276bd1",
   "lastOpenFiles": [
+    "一些软件名.md",
     "硬件/计算机的保养/固态硬盘.md",
     "软件/git/相关坑.md",
     "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
@@ -164,7 +165,6 @@
     "软件/系统/Windows系统/窗体.md",
     "软件/系统/Windows系统/磁盘碎片整理.md",
     "软件/系统/Windows系统/SSD的Trim支持.md",
-    "一些软件名.md",
     "化学/未命名 1.md",
     "化学/溶液中粒子浓度关系分析.md"
   ]
