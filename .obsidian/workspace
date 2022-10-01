@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "软件/GitHub Action.md",
-            "mode": "preview",
+            "file": "软件/系统/Windows系统/ipv6访问网络驱动器.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件/GitHub Action.md",
+                "file": "软件/系统/Windows系统/ipv6访问网络驱动器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件/GitHub Action.md",
+                "file": "软件/系统/Windows系统/ipv6访问网络驱动器.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件/GitHub Action.md"
+                "file": "软件/系统/Windows系统/ipv6访问网络驱动器.md"
               }
             }
           },
@@ -155,17 +155,17 @@
     "direction": "horizontal",
     "width": 323.7582092285156
   },
-  "active": "9375aabb0bafd577",
+  "active": "7b778d5f86276bd1",
   "lastOpenFiles": [
+    "软件/系统/Windows系统/磁盘碎片整理.md",
+    "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
+    "软件/系统/Windows系统/ipv6访问网络驱动器.md",
+    "软件/GitHub Action.md",
     "一些软件名.md",
     "硬件/计算机的保养/固态硬盘.md",
     "软件/git/相关坑.md",
-    "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
     "软件/系统/Windows系统/spool文件夹.md",
     "软件/系统/Windows系统/窗体.md",
-    "软件/系统/Windows系统/磁盘碎片整理.md",
-    "软件/系统/Windows系统/SSD的Trim支持.md",
-    "化学/未命名 1.md",
-    "化学/溶液中粒子浓度关系分析.md"
+    "软件/系统/Windows系统/SSD的Trim支持.md"
   ]
 }
