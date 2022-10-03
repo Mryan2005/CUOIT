@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "软件/系统/Windows系统/快捷键.md",
+            "file": "软件/系统/ColorOS(OPPO)/开发者模式.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件/系统/Windows系统/快捷键.md",
+                "file": "软件/系统/ColorOS(OPPO)/开发者模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件/系统/Windows系统/快捷键.md",
+                "file": "软件/系统/ColorOS(OPPO)/开发者模式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件/系统/Windows系统/快捷键.md"
+                "file": "软件/系统/ColorOS(OPPO)/开发者模式.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "9df74b9996e904bc",
   "lastOpenFiles": [
-    "软件/系统/Windows系统/ipv6访问网络驱动器.md",
     "软件/系统/Windows系统/快捷键.md",
+    "软件/系统/Windows系统/ipv6访问网络驱动器.md",
     "软件/系统/kylin系统/设置.md",
     "软件/系统/未命名.md",
     "软件/系统/Windows系统/磁盘碎片整理.md",
