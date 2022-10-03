@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9df74b9996e904bc",
+        "id": "5ab34f81358f3326",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
+            "file": "软件/系统/安卓系统/ColorOS(OPPO)/常见问题分析.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
+                "file": "软件/系统/安卓系统/ColorOS(OPPO)/常见问题分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
+                "file": "软件/系统/安卓系统/ColorOS(OPPO)/常见问题分析.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件/系统/Windows系统/Windows文件夹/System32文件夹.md"
+                "file": "软件/系统/安卓系统/ColorOS(OPPO)/常见问题分析.md"
               }
             }
           },
@@ -155,17 +155,17 @@
     "direction": "horizontal",
     "width": 323.7582092285156
   },
-  "active": "9df74b9996e904bc",
+  "active": "5ab34f81358f3326",
   "lastOpenFiles": [
+    "软件/系统/安卓系统/通用/相册的使用.md",
+    "软件/系统/安卓系统/通用/微信的使用.md",
+    "软件/系统/安卓系统/ColorOS(OPPO)/手机设置.md",
+    "软件/系统/安卓系统/通用/查话费的办法.md",
+    "软件/系统/安卓系统/通用/酷狗音乐的使用.md",
+    "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
     "软件/GitHub Action.md",
     "软件/系统/Windows系统/Windows系统.md",
     "总目录.md",
-    "软件.md",
-    "软件/系统/ColorOS(OPPO)/开发者模式.md",
-    "软件/系统/kylin系统/设置.md",
-    "软件/系统/Windows系统/快捷键.md",
-    "软件/系统/Windows系统/ipv6访问网络驱动器.md",
-    "软件/系统/未命名.md",
-    "软件/系统/Windows系统/磁盘碎片整理.md"
+    "软件.md"
   ]
 }
