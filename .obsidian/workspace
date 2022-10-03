@@ -148,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,6 +156,7 @@
   },
   "active": "9df74b9996e904bc",
   "lastOpenFiles": [
+    "软件/系统/ColorOS(OPPO)/开发者模式.md",
     "软件/系统/Windows系统/快捷键.md",
     "软件/系统/Windows系统/ipv6访问网络驱动器.md",
     "软件/系统/kylin系统/设置.md",
@@ -165,7 +165,6 @@
     "软件/系统/Windows系统/Windows文件夹/System32文件夹.md",
     "软件/GitHub Action.md",
     "一些软件名.md",
-    "硬件/计算机的保养/固态硬盘.md",
-    "软件/git/相关坑.md"
+    "硬件/计算机的保养/固态硬盘.md"
   ]
 }
