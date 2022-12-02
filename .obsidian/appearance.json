@@ -1,5 +1,6 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Deep Work",
-  "baseFontSize": 20
+  "cssTheme": "",
+  "baseFontSize": 22,
+  "accentColor": "#3c15bc"
 }

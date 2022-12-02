@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "43e63b0879b34f72",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7d7dae2a4c595a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ab34f81358f3326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件/工具/一些工具.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13f613c449af0ce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9917565a6c5cfd27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9375aabb0bafd577",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0359a474a6055801",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#糟糕的同桌",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cea81dea173aceb4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.49999809265137,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a5c65bd450753cd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c49d4ad5842d715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2200b195c139c9e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "03b97b79d9951edd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "软件/工具/一些工具.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a576741fdefc27dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "软件/工具/一些工具.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "89cc7e18e72fef55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "软件/工具/一些工具.md"
+              }
+            }
+          },
+          {
+            "id": "0c571ee44f4cfea3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e122e88d44016419",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5,
+    "collapsed": true
+  },
+  "active": "5ab34f81358f3326",
+  "lastOpenFiles": [
+    "软件/工具/Twinkle Tray Brightness Slider.md",
+    "软件/工具/一些工具.md",
+    "软件/工具/Twinkle.md",
+    "软件.md",
+    "软件/系统/Windows系统/Windows系统.md",
+    "软件/系统/安卓系统/ColorOS(OPPO)/常见问题分析.md",
+    "软件/系统/安卓系统/通用/相册的使用.md",
+    "软件/系统/安卓系统/通用/微信的使用.md",
+    "软件/系统/安卓系统/ColorOS(OPPO)/手机设置.md",
+    "软件/系统/安卓系统/通用/查话费的办法.md"
+  ]
+}
